@@ -1,5 +1,6 @@
 <div align="center">
-  <h3>🎄Tech Stack</h3>
+  <h3> 안녕하세요, 만들기를 좋아하는 프론트엔드 개발자 임채민입니다. </h3>
+  <h3>🎄Skills </h3>
     <div>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -14,13 +15,6 @@
       <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
     </div>
 </div>
-
-<div align="center">
-  <h3>⭐Tools</h3>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-</div>
-
 
 
   
