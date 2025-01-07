@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> 안녕하세요! 만들기를 좋아하는 프론트엔드 개발자 임채민입니다. </h3>
+  <h3> 안녕하세요! 프론트엔드 개발자 임채민입니다. </h3>
   <h3>🎄Skills </h3>
     <div>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
